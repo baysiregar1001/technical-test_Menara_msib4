@@ -1,6 +1,6 @@
 # technical_test
 
-A new Flutter project.
+this for technical test on PT. Menara Indonesia menara msib batch 4.
 
 ## Getting Started
 
